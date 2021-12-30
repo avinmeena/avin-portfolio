@@ -16,7 +16,7 @@ function Project() {
               <h3 className="project__title">My Portfolio </h3>
               <p className="project__description">
                 I developed and designed a website using <b>ReactJS</b> and
-                <b> Bootstrap</b> HTML, CSS, hosted on Github Pages, to showcase
+                <b> Bootstrap</b> HTML, CSS, hosted on Heroku, to showcase
                 my web presence, story, work experience, education, projects,
                 and achievements in an interactive and visually-appealing
                 format.
