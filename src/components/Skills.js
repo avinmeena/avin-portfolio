@@ -22,7 +22,7 @@ function Skills() {
               <i class="uil uil-arrow skills__icon"></i>
               <div>
                 <h1 className="skills__titles">Frontend developer</h1>
-                <span className="skills__subtitle">More than 4 years</span>
+{/* <span className="skills__subtitle">More than 4 years</span> */}
               </div>
               <i className="uil uil-angle-up skills__arrow"></i>
             </div>
