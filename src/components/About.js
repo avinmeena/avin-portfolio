@@ -11,8 +11,7 @@ function About() {
         <img src="\img\about.jpg" alt="" className="about__img" />
         <div className="about__data">
           <p className="about__description">
-            web developer with extensive knowledge and years of
-            experience,working in web technoloies and UI/UX design delivering
+            web developer with extensive knowledge and have experience,working in web technoloies and in programming delivering
             quality work.
           </p>
           {/*
