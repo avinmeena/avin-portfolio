@@ -22,7 +22,7 @@ function Project() {
                 format.
               </p>
               <a
-                href="https://github.com/avinmeena/portfolio-website.git"
+                href="https://github.com/avinmeena/avin-portfolio"
                 className="button button--flex button--small project__button"
               >
                 Check It Out
