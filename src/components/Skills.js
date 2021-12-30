@@ -87,7 +87,7 @@ function Skills() {
               <i className="uil uil-server-network skills__icon"></i>
               <div>
                 <h1 className="skills__titles">Backend developer</h1>
-                <span className="skills__subtitle">More than 2 years</span>
+                {/* <span className="skills__subtitle">More than 4 years</span> */}
               </div>
               <i className="uil uil-angle-up skills__arrow"></i>
             </div>
@@ -142,7 +142,7 @@ function Skills() {
               <i className="uil uil-brackets-curly skills__icon"></i>
               <div>
                 <h1 className="skills__titles">Programming</h1>
-                <span className="skills__subtitle">More than 2 years</span>
+                {/* <span className="skills__subtitle">More than 4 years</span> */}
               </div>
               <i className="uil uil-angle-up skills__arrow"></i>
             </div>
