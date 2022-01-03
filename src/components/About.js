@@ -41,7 +41,7 @@ function About() {
           <div className="div about__buttons">
             <a
               download=""
-              href="\resume\avinResume.pdf"
+              href="\img\avinResume.pdf"
               className="button button--flex"
             >
               Download CV<i className="uil uil-download-alt button__icon"></i>
